@@ -12,7 +12,7 @@
   { "name": "AI Planning",         "cat": "Research",     "icon": "◆",                                 "pct": 78 },
   { "name": "Gemini API",          "cat": "AI",           "icon": "devicon-google-plain colored",      "pct": 78 },
   { "name": "Git / CI·CD",         "cat": "Tooling",      "icon": "devicon-git-plain colored",         "pct": 75 },
-  { "name": "Android XR",          "cat": "Spatial",      "icon": "devicon-git-plain colored",         "pct": 75 },
+  { "name": "Android XR",          "cat": "Spatial",      "icon": "devicon-android-plain colored",     "pct": 75 },
   { "name": "Python",              "cat": "Scripting",    "icon": "devicon-python-plain colored",      "pct": 74 },
   { "name": "UIKit",               "cat": "iOS",          "icon": "devicon-xcode-plain colored",       "pct": 72 },
   { "name": "ASP.NET Core",        "cat": "Backend",      "icon": "devicon-dotnetcore-plain colored",  "pct": 70 },
