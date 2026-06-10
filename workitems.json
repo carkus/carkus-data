@@ -13,7 +13,7 @@
   },
   {
     "title": "JobFit™ — AI Job Match Analyser",
-    "tags": ["Blazor", "Claude API", "C#"],
+    "tags": ["TypeScript", ".NET", "Claude API", "Gemini API"],
     "imageUrl": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?w=600&q=80",
     "imageAlt": "Job interview handshake",
     "description": "AI-powered tool that scores a CV against a job description, surfaces skill gaps, and drafts a tailored cover letter — built with Blazor and the Claude API.",
