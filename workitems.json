@@ -25,7 +25,7 @@
   },
   {
     "title": "PDF Form Builder",
-    "tags": ["Blazor", "PDF Generation"],
+    "tags": ["C#", "Blazor", "PDF Generation"],
     "imageUrl": "img/pdf_form.png",
     "imageAlt": "PDF Form Builder",
     "imagePosition": "calc(50% - 50px) center",
