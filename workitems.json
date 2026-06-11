@@ -48,10 +48,10 @@
   },
   {
     "title": "Spatial UI Components",
-    "tags": ["visionOS", "RealityKit", "Android XR"],
+    "tags": ["visionOS", "RealityKit"],
     "imageUrl": "img/spatial_architect.png",
     "imageAlt": "Spatial UI Components",
-    "description": "A library of reusable spatial UI components for Apple Vision Pro using RealityKit and SwiftUI. And a production XR version of ZOME.",
+    "description": "A library of reusable spatial UI components for Apple Vision Pro using RealityKit and SwiftUI.",
     "featured": false,
     "links": []
   },
