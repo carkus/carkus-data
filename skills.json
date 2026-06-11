@@ -65,7 +65,7 @@
   {
     "name": "Claude API",
     "cat": "AI",
-    "icon": "devicon-claude-code-plain colored",
+    "icon": "img/claude-ai.svg",
     "pct": 88,
     "id": "e29a5027-6a34-4abc-bdad-b21afcc61b5d",
     "rating": 88,
