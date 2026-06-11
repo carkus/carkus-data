@@ -2,7 +2,7 @@
   {
     "title": "ZOME — Spatial Messenger",
     "tags": ["Flutter", "Swift", "Kotlin", "visionOS"],
-    "imageUrl": "https://images.unsplash.com/photo-1759661990336-51bd4b951fea?w=900&q=80",
+    "imageUrl": "img/ZOME_branding.png",
     "imageAlt": "ZOME platform",
     "description": "ZOME is a spatial platform and messenger where you can plant your messages anywhere in the world, at any location and even points in time.",
     "featured": true,
@@ -25,7 +25,7 @@
   },
   {
     "title": "PDF Form Builder",
-    "tags": ["C#", "Blazor", "PDF Generation"],
+    "tags": ["Blazor", "PDF Generation"],
     "imageUrl": "img/pdf_form.png",
     "imageAlt": "PDF Form Builder",
     "imagePosition": "calc(50% - 50px) center",
@@ -48,10 +48,10 @@
   },
   {
     "title": "Spatial UI Components",
-    "tags": ["visionOS", "RealityKit", "Android XR"],
+    "tags": ["visionOS", "RealityKit"],
     "imageUrl": "img/spatial_architect.png",
     "imageAlt": "Spatial UI Components",
-    "description": "A library of reusable spatial UI components for Apple Vision Pro using RealityKit and SwiftUI, and Android XR.",
+    "description": "A library of reusable spatial UI components for Apple Vision Pro using RealityKit and SwiftUI.",
     "featured": false,
     "links": []
   },

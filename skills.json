@@ -1,23 +1,182 @@
 [
-  { "name": "Flutter/Dart",        "cat": "Mobile",       "icon": "devicon-flutter-plain colored",     "pct": 95 },
-  { "name": "Swift / SwiftUI",     "cat": "iOS",          "icon": "devicon-swift-plain colored",       "pct": 92 },
-  { "name": "visionOS/RealityKit", "cat": "Spatial",      "icon": "devicon-apple-plain",               "pct": 90 },
-  { "name": "Blazor",              "cat": "Web",          "icon": "devicon-blazor-plain colored",      "pct": 90 },
-  { "name": "Claude API",          "cat": "AI",           "icon": "devicon-claude-code-plain colored", "pct": 88 },
-  { "name": "React",               "cat": "Web",          "icon": "devicon-react-original colored",    "pct": 86 },
-  { "name": "C#",                  "cat": "Language",     "icon": "devicon-csharp-plain colored",      "pct": 86 },
-  { "name": "Python",              "cat": "Scripting",    "icon": "devicon-python-plain colored",      "pct": 84 },
-  { "name": "TypeScript",          "cat": "Language",     "icon": "devicon-typescript-plain colored",  "pct": 82 },
-  { "name": "RealityKit",          "cat": "Spatial",      "icon": "devicon-apple-plain",               "pct": 82 },
-  { "name": "Node JS",             "cat": "Backend",      "icon": "devicon-nodejs-plain colored",      "pct": 80 },
-  { "name": "Kotlin",              "cat": "Android",      "icon": "devicon-kotlin-plain colored",      "pct": 80 },
-  { "name": "AI Planning",         "cat": "Research",     "icon": "devicon-python-plain colored",      "pct": 78 },
-  { "name": "Gemini API",          "cat": "AI",           "icon": "devicon-google-plain colored",      "pct": 78 },
-  { "name": "Git / CI·CD",         "cat": "Tooling",      "icon": "devicon-git-plain colored",         "pct": 75 },
-  { "name": "Android XR",          "cat": "Spatial",      "icon": "devicon-android-plain colored",     "pct": 75 },
-  { "name": "UIKit",               "cat": "iOS",          "icon": "devicon-xcode-plain colored",       "pct": 72 },
-  { "name": "ASP.NET Core",        "cat": "Backend",      "icon": "devicon-dotnetcore-plain colored",  "pct": 70 },
-  { "name": "Jetpack Compose",     "cat": "Android",      "icon": "devicon-android-plain colored",     "pct": 70 },
-  { "name": "ARKit",               "cat": "Spatial",      "icon": "devicon-apple-plain",               "pct": 66 },
-  { "name": "systemd",             "cat": "DevOps",       "icon": "devicon-linux-plain colored",       "pct": 60 }
+  {
+    "name": "Flutter/Dart",
+    "cat": "Mobile",
+    "icon": "devicon-flutter-plain colored",
+    "pct": 95,
+    "id": "85fefaf2-6e3e-4b02-a95a-775a5390c727",
+    "rating": 96,
+    "category": "Mobile"
+  },
+  {
+    "name": "Blazor",
+    "cat": "Web",
+    "icon": "devicon-blazor-plain colored",
+    "pct": 90,
+    "id": "13c0c6b6-3b65-4a97-aa38-3028e0bd8a2d",
+    "rating": 90,
+    "category": "Web"
+  },
+  {
+    "name": "React",
+    "cat": "Web",
+    "icon": "devicon-react-original colored",
+    "pct": 86,
+    "id": "7a62f414-8d1a-4c33-83bf-47c833d7f835",
+    "rating": 86,
+    "category": "Web"
+  },
+  {
+    "name": "Node JS",
+    "cat": "Backend",
+    "icon": "devicon-nodejs-plain colored",
+    "pct": 80,
+    "id": "81e315c0-1ea0-4f36-8945-2f03e6eaac57",
+    "rating": 80,
+    "category": "Backend"
+  },
+  {
+    "name": "ASP.NET Core",
+    "cat": "Backend",
+    "icon": "devicon-dotnetcore-plain colored",
+    "pct": 70,
+    "id": "634c4020-f54a-4e6d-8504-fd2854a177d9",
+    "rating": 70,
+    "category": "Backend"
+  },
+  {
+    "name": "Swift / SwiftUI",
+    "cat": "iOS",
+    "icon": "devicon-swift-plain colored",
+    "pct": 92,
+    "id": "c9969827-0213-40d5-bf1d-574e5935d83d",
+    "rating": 92,
+    "category": "Mobile"
+  },
+  {
+    "name": "visionOS/RealityKit",
+    "cat": "Spatial",
+    "icon": "devicon-apple-plain",
+    "pct": 90,
+    "id": "1e3872da-1110-48b0-9398-99a8cefcc701",
+    "rating": 90,
+    "category": "Spatial"
+  },
+  {
+    "name": "Claude API",
+    "cat": "AI",
+    "icon": "devicon-claude-code-plain colored",
+    "pct": 88,
+    "id": "e29a5027-6a34-4abc-bdad-b21afcc61b5d",
+    "rating": 88,
+    "category": "AI"
+  },
+  {
+    "name": "C#",
+    "cat": "Language",
+    "icon": "devicon-csharp-plain colored",
+    "pct": 86,
+    "id": "515a8b46-d6dc-4380-a993-4df821cda6e9",
+    "rating": 86,
+    "category": "Language"
+  },
+  {
+    "name": "Python",
+    "cat": "Scripting",
+    "icon": "devicon-python-plain colored",
+    "pct": 84,
+    "id": "d2211dd8-5226-4589-9ce7-86435e71d3ce",
+    "rating": 84,
+    "category": "Language"
+  },
+  {
+    "name": "TypeScript",
+    "cat": "Language",
+    "icon": "devicon-typescript-plain colored",
+    "pct": 82,
+    "id": "fd051dd4-afc3-4a90-bd39-b73d6372305e",
+    "rating": 82,
+    "category": "Language"
+  },
+  {
+    "name": "RealityKit",
+    "cat": "Spatial",
+    "icon": "devicon-apple-plain",
+    "pct": 82,
+    "id": "9caff4af-37a1-4b1f-ad07-de6b8cded2d2",
+    "rating": 82,
+    "category": "Spatial"
+  },
+  {
+    "name": "Kotlin",
+    "cat": "Android",
+    "icon": "devicon-kotlin-plain colored",
+    "pct": 80,
+    "id": "11817817-345e-493d-95cf-d4d3e5d00052",
+    "rating": 80,
+    "category": "Mobile"
+  },
+  {
+    "name": "AI Task Planning",
+    "cat": "Research",
+    "icon": "devicon-python-plain colored",
+    "pct": 78,
+    "id": "3663c7b3-ca6e-4f71-97bb-ad8b0d253a85",
+    "rating": 78,
+    "category": "AI"
+  },
+  {
+    "name": "Gemini API",
+    "cat": "AI",
+    "icon": "devicon-google-plain colored",
+    "pct": 78,
+    "id": "ac779a68-ecf9-49e7-b9e3-5997a4ab049c",
+    "rating": 78,
+    "category": "AI"
+  },
+  {
+    "name": "Git / CI·CD",
+    "cat": "Tooling",
+    "icon": "devicon-git-plain colored",
+    "pct": 75,
+    "id": "a29a5852-5ab9-4957-adc9-5920fbaa829f",
+    "rating": 76,
+    "category": "Tooling"
+  },
+  {
+    "name": "Android XR",
+    "cat": "Spatial",
+    "icon": "devicon-android-plain colored",
+    "pct": 75,
+    "id": "8f36d1a7-ab00-4aee-b76f-75d40f97d79a",
+    "rating": 76,
+    "category": "Spatial"
+  },
+  {
+    "name": "UIKit",
+    "cat": "iOS",
+    "icon": "devicon-xcode-plain colored",
+    "pct": 72,
+    "id": "2e698782-a162-449b-9bb8-624025d87c88",
+    "rating": 72,
+    "category": "Mobile"
+  },
+  {
+    "name": "Jetpack Compose",
+    "cat": "Android",
+    "icon": "devicon-android-plain colored",
+    "pct": 70,
+    "id": "ef01fd65-912b-4c56-b143-20a342d23c64",
+    "rating": 70,
+    "category": "Mobile"
+  },
+  {
+    "name": "ARKit",
+    "cat": "Spatial",
+    "icon": "devicon-apple-plain",
+    "pct": 66,
+    "id": "3e613825-fdda-45be-8617-1e0919b6b3ca",
+    "rating": 66,
+    "category": "Spatial"
+  }
 ]
