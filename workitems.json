@@ -36,14 +36,14 @@
     ]
   },
   {
-    "title": "Moot — AI Conversation & Debate",
+    "title": "Chatty Prayers — AI Conversation, Debate, and Counsel",
     "tags": ["Blazor", "Claude API", "Gemini API"],
-    "imageUrl": "img/moot_robotdebate.png",
-    "imageAlt": "Moot — AI debate",
+    "imageUrl": "img/chatty_prayers.png",
+    "imageAlt": "Chatty Prayers",
     "description": "Personality-driven AI platform with one-on-one chat, confidant reflection, and structured multi-participant debate — built with Blazor and the Claude and Gemini APIs.",
     "featured": false,
     "links": [
-      { "label": "Open Moot ↗", "url": "https://moot.carkus.com" }
+      { "label": "Open Chatty Prayers ↗", "url": "https://moot.carkus.com" }
     ]
   },
   {
