@@ -1,5 +1,28 @@
 [
   {
+    "title": "PDF Builder",
+    "tags": ["Blazor", "PDF Generation", "Claude API"],
+    "imageUrl": "img/pdf_form.png",
+    "imageAlt": "PDF Form Builder",
+    "imagePosition": "calc(50% - 50px) center",
+    "description": "An AI-assisted, drag-and-drop editor for building and exporting PDFs.",
+    "featured": true,
+    "links": [
+      { "label": "Open Form Builder ↗", "url": "https://editor.carkus.com/form-editor" }
+    ]
+  },
+  {
+    "title": "Chatty Prayers — AI Debates, and Counsel",
+    "tags": ["Blazor", "Claude API", "Gemini API"],
+    "imageUrl": "img/chatty_prayers.png",
+    "imageAlt": "Chatty Prayers",
+    "description": "Personality-driven AI platform with one-on-one chat, confidant reflection, and structured multi-participant debate — built with Blazor and the Claude and Gemini APIs.",
+    "featured": true,
+    "links": [
+      { "label": "Open Chatty Prayers ↗", "url": "https://moot.carkus.com" }
+    ]
+  },
+  {
     "title": "ZOME — Spatial Messenger",
     "tags": ["Flutter", "Swift", "Kotlin", "visionOS"],
     "imageUrl": "img/ZOME_branding.png",
@@ -22,29 +45,6 @@
       { "label": "Open JobFit ↗", "url": "https://jobfit.carkus.com" }
     ],
     "credit": { "name": "Mina Rad", "url": "https://unsplash.com/@miinrad" }
-  },
-  {
-    "title": "PDF Builder",
-    "tags": ["Blazor", "PDF Generation", "Claude API"],
-    "imageUrl": "img/pdf_form.png",
-    "imageAlt": "PDF Form Builder",
-    "imagePosition": "calc(50% - 50px) center",
-    "description": "An AI-assisted, drag-and-drop editor for building and exporting PDFs.",
-    "featured": true,
-    "links": [
-      { "label": "Open Form Builder ↗", "url": "https://editor.carkus.com/form-editor" }
-    ]
-  },
-  {
-    "title": "Chatty Prayers — AI Debates, and Counsel",
-    "tags": ["Blazor", "Claude API", "Gemini API"],
-    "imageUrl": "img/chatty_prayers.png",
-    "imageAlt": "Chatty Prayers",
-    "description": "Personality-driven AI platform with one-on-one chat, confidant reflection, and structured multi-participant debate — built with Blazor and the Claude and Gemini APIs.",
-    "featured": false,
-    "links": [
-      { "label": "Open Chatty Prayers ↗", "url": "https://moot.carkus.com" }
-    ]
   },
   {
     "title": "Spatial UI Components",
