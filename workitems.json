@@ -85,11 +85,12 @@
   {
     "title": "MarkdownForms.Api",
     "tags": [".NET Core", "Markdown", "PDF Generation", "Claude API"],
-    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14431b9?w=600&q=80",
+    "imageUrl": "img/kelly-sikkema-6fIxFaOvwHQ-unsplash.jpg",
     "imageAlt": "Code editor",
     "description": "A .NET API that renders and processes dynamic form schemas defined in Markdown — PDF export with AcroForm generation and AI-assisted field population.",
     "featured": false,
     "width": 50,
-    "links": []
+    "links": [],
+    "credit": { "name": "Kelly Sikkema", "url": "https://unsplash.com/@kellysikkema" }
   }
 ]
