@@ -2,11 +2,11 @@
   {
     "subsection": "Front",
     "title": "PDF Builder",
-    "tags": ["Blazor", "PDF Generation", "Claude API"],
+    "tags": ["Blazor", "PDF Generation", "Claude API", "Structured Prompting"],
     "imageUrl": "img/pdf_form.png",
     "imageAlt": "PDF Form Builder",
     "imagePosition": "calc(50% - 50px) center",
-    "description": "An AI-assisted, drag-and-drop editor for building and exporting PDFs.",
+    "description": "Drag-and-drop PDF editor with AI form generation — describe a form in plain text and Claude generates the fields, layout, and pre-filled values via structured prompt engineering.",
     "featured": true,
     "width": 33,
     "links": [
@@ -40,10 +40,10 @@
   },
   {
     "title": "JobFit™ — AI Job Match Analyser",
-    "tags": ["TypeScript", ".NET", "Claude API", "Gemini API"],
+    "tags": ["TypeScript", ".NET", "Claude API", "Gemini API", "Structured Output", "Multi-provider"],
     "imageUrl": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?w=600&q=80",
     "imageAlt": "Job interview handshake",
-    "description": "AI-powered tool that scores a CV against a job description, surfaces skill gaps, and drafts a tailored cover letter — built with Blazor and the Claude API.",
+    "description": "AI-powered tool that scores a CV against a job description, surfaces skill gaps, and drafts a cover letter — with multi-provider orchestration (Ollama → OpenAI → Anthropic → Gemini), schema-validated output, and token observability.",
     "featured": false,
     "width": 33,
     "links": [
