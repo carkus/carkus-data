@@ -43,7 +43,7 @@
     "tags": ["TypeScript", ".NET", "Claude API", "Gemini API", "Structured Output", "Multi-provider"],
     "imageUrl": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?w=600&q=80",
     "imageAlt": "Job interview handshake",
-    "description": "AI-powered tool that scores a CV against a job description, surfaces skill gaps, and drafts a cover letter — with multi-provider orchestration (Ollama → OpenAI → Anthropic → Gemini), schema-validated output, and token observability.",
+    "description": "AI-powered tool that scores a CV against a job description, surfaces skill gaps, and drafts a cover letter.",
     "featured": false,
     "width": 33,
     "links": [
