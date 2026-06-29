@@ -3,7 +3,7 @@
     "subsection": "Front",
     "title": "PDF Builder",
     "tags": ["Blazor", "PDF Generation", "Claude API", "Structured Prompting"],
-    "imageUrl": "img/pdf_form.png",
+    "imageUrl": "/img/pdf_form.png",
     "imageAlt": "PDF Form Builder",
     "imagePosition": "calc(50% - 50px) center",
     "description": "Drag-and-drop PDF editor with AI form generation — describe a form in plain text and Claude generates the fields, layout, and pre-filled values via structured prompt engineering.",
@@ -16,7 +16,7 @@
   {
     "title": "Chatty Prayers — AI Debates, and Counsel",
     "tags": ["Blazor", "Claude API", "Gemini API"],
-    "imageUrl": "img/chatty_prayers.png",
+    "imageUrl": "/img/chatty_prayers.png",
     "imageAlt": "Chatty Prayers",
     "description": "Personality-driven AI platform with one-on-one chat, confidant reflection, and structured multi-participant debate — built with Blazor and the Claude and Gemini APIs.",
     "featured": true,
@@ -28,7 +28,7 @@
   {
     "title": "ZOME — Spatial Messenger",
     "tags": ["Flutter", "Swift", "Kotlin", "visionOS"],
-    "imageUrl": "img/ZOME_branding.png",
+    "imageUrl": "/img/ZOME_branding.png",
     "imageAlt": "ZOME platform",
     "description": "ZOME is a spatial platform and messenger where you can plant your messages anywhere in the world, at any location and even points in time.",
     "featured": true,
@@ -54,7 +54,7 @@
   {
     "title": "Spatial UI Components",
     "tags": ["visionOS", "RealityKit"],
-    "imageUrl": "img/spatial_architect.png",
+    "imageUrl": "/img/spatial_architect.png",
     "imageAlt": "Spatial UI Components",
     "description": "A library of reusable spatial UI components for Apple Vision Pro using RealityKit and SwiftUI.",
     "featured": false,
@@ -85,7 +85,7 @@
   {
     "title": "MarkdownForms.Api",
     "tags": [".NET Core", "Markdown", "PDF Generation", "Claude API"],
-    "imageUrl": "img/kelly-sikkema-6fIxFaOvwHQ-unsplash.jpg",
+    "imageUrl": "/img/kelly-sikkema-6fIxFaOvwHQ-unsplash.jpg",
     "imageAlt": "Code editor",
     "description": "A .NET API that renders and processes dynamic form schemas defined in Markdown — PDF export with AcroForm generation and AI-assisted field population.",
     "featured": false,
